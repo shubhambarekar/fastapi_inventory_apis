@@ -1,0 +1,7 @@
+__pycache__
+test-api
+config/__pycache__
+models/__pycache__
+repository/__pycache__
+routes/__pycache__
+schemas/__pycache__
